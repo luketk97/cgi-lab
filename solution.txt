@@ -1,7 +1,0 @@
-1.  os.environ()
-2. 'QUERY_STRING'
-3. 'HTTP_USER_AGENT'
-4. script retrieves data set by CGI server as cookie by calling SimpleCookie(os.environ["HTTP_COOKIE"])
-5. "Set-Cookie: "
-6. "Cookie: "
-7. Cookies are small piece of temporary data that is used to efficiently exchange the data between server and browser.
